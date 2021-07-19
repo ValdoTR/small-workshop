@@ -374,7 +374,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"That's an ideal place for workshops! Each of the 4 rooms can accommodate more than 30 people!\nIt feels good to work, doesn\u2019t it? When the boss will stop showing off with his carpet from Africa and his pool table imported from the States, you MAY be able to play the console..."
+         "value":"Suitable up to 100 users.\n\nIf all you need is four rooms and a main lobby area for your guests to relax while on their breaks at your workshops, this is the perfect map. One of the most versatile maps we offer, where you are able to have just the right balance between working and relaxing."
         }, 
         {
          "name":"mapImage",
@@ -397,7 +397,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
